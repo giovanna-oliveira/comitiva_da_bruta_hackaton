@@ -6,6 +6,9 @@ Hackaton BTGfazTech
 
 **A Fintech que veio para semear o futuro**
 
+## Acesse nosso Figma
+
+https://www.figma.com/file/sMiEyMn05aJTSsMvV6jJ2B/hackaton-BTG?node-id=0%3A1
 
 **Pesquisa**
 
